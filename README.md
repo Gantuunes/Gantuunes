@@ -13,7 +13,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gantuunes&layout=compact&theme=radical)
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=gantuunes&show_icons=true&theme=radical)
+
 
 
 ### 📫 You can find me here:
