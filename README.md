@@ -2,7 +2,7 @@
  
 # About me:
 
- <small>  26 yo, Currently studying system analysis, is focus lies particularly in front-end development and QA where i'm enjoys crafting engaging and user-friendly interfaces.</small>
+ <small>  28 yo, Currently studying system analysis, is focus lies particularly in front-end development and QA where i'm enjoys crafting engaging and user-friendly interfaces.</small>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
